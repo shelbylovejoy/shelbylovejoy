@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shelbylovejoy
-- 👀 I’m interested in ... computer programming, machine learning, artificial intelligence, human behavior, nanotechnology, etc.
-- 🌱 I’m currently ... conducting research on nanotechnology in wearable devices
+- 👀 I’m interested in ... web development, computer programming, machine learning, artificial intelligence, human behavior, etc.
+- 🌱 I’m currently ... learning web development skills
 - 💞️ I’m looking to collaborate on ... any projects!
 - 📫 How to reach me ... reach out to me on LinkedIn! @Shelby Lovejoy
 
